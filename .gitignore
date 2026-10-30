@@ -1,0 +1,30 @@
+# Keil generated build outputs
+MDK-ARM/build_*.log
+MDK-ARM/SteeringWheelDriver/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.lst
+MDK-ARM/*.map
+MDK-ARM/*.axf
+MDK-ARM/*.hex
+
+# General compiler outputs
+*.o
+*.obj
+*.d
+*.dep
+*.crf
+*.iex
+*.lnp
+*.sct
+*.build_log.htm
+
+# IDE and OS metadata
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local logs
+*.log
